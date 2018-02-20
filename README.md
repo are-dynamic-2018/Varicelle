@@ -3,7 +3,7 @@ Bouziane Yanis , Djedami Sihame , Yalcin Mehmet
 La propagation de la varicelle
 
 description du sujet :
-
+----------------------
 On a une classe de maternelle  de 25 élèves que l'on représentera sous forme de matrice.
 On admet qu'un élève est en phase d'incubation, c'est-à-dire qu'il est extrêmement contagieux mais ne présente pas encore les symptômes.
 
