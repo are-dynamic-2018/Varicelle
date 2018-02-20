@@ -35,7 +35,7 @@ Mais si on se focalise sur le cas où l'enfant attrape une seconde fois la varic
 Par exemple, on peut prendre le facteur hygiène : est-ce que si l'enfant se lave plus ou moins les mains aura plus ou moins de risque de contracter une seconde fois la maladie ? 
 Est-ce que le fait qu'un enfant soit élevé dans un environnement que l'on pourrait qualifier de sale (comme par exemple avoir un animal de compagnie) 
 diminuerait les risques d'être contaminé à nouveau, étant donné que l'organisme de l'enfant est habitué aux bactéries ?
----------------------------------------------------------------------------------------------------------------------------------
+
 
 Compte rendu du 20/02/2018:
 
