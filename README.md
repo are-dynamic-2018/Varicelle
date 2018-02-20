@@ -35,5 +35,11 @@ Mais si on se focalise sur le cas où l'enfant attrape une seconde fois la varic
 Par exemple, on peut prendre le facteur hygiène : est-ce que si l'enfant se lave plus ou moins les mains aura plus ou moins de risque de contracter une seconde fois la maladie ? 
 Est-ce que le fait qu'un enfant soit élevé dans un environnement que l'on pourrait qualifier de sale (comme par exemple avoir un animal de compagnie) 
 diminuerait les risques d'être contaminé à nouveau, étant donné que l'organisme de l'enfant est habitué aux bactéries ?
+---------------------------------------------------------------------------------------------------------------------------------
 
+Compte rendu du 20/02/2018:
+
+Lors de cette séance nous avons établie notre projet et clarifier celui-ci grâce à nos notes ci-dessus en prenant en compte les remarques faites par nos professeurs lors de notre présentation orale. Nous avons ensuite commencé à coder le début de notre
+modèle de la manière la plus simple possible et avec des paramètres manquants que nous incluerons par la suite. 
+Pour la prochaine séance nous avons pour objectif de compléter notre premier code simplifié.
 
