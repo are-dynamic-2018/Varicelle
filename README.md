@@ -38,7 +38,7 @@ diminuerait les risques d'être contaminé à nouveau, étant donné que l'organ
 
 
 Compte rendu du 20/02/2018:
-
+--------------------------------------------------------------------------------------------------------------------------
 Lors de cette séance nous avons établie notre projet et clarifier celui-ci grâce à nos notes ci-dessus en prenant en compte les remarques faites par nos professeurs lors de notre présentation orale. Nous avons ensuite commencé à coder le début de notre
 modèle de la manière la plus simple possible et avec des paramètres manquants que nous incluerons par la suite. 
 Pour la prochaine séance nous avons pour objectif de compléter notre premier code simplifié.
