@@ -46,3 +46,7 @@ Pour la prochaine séance nous avons pour objectif de compléter notre premier c
 Compte rendu du 27/02/2018
 -------------------------------------------------------
 Lors de cette séance nous avons cherché à programmer un modèle simple avec des 0 et des 1 les 0 représentant les individus sains et les 1 les malades. Après cela nous avons décidé de complexifier légèrement notre travail en ajoutant des espaces vides à notre classe de maternelle.Nous avons donc défini un nombre de case vide par rapport a la taille de notre matrice et le nombre d'élèves, les coordonnées des cases vides ont été défini au hasard dans notre matrice, il reste à introduire un enfant malade parmis les individus sain. 
+
+Compte rendu du 06/03/2018
+--------------------------------------------------
+https://interstices.info/jcms/i_56766/modeliser-la-propagation-d-une-epidemie
