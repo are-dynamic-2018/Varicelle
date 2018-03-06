@@ -49,4 +49,6 @@ Lors de cette séance nous avons cherché à programmer un modèle simple avec d
 
 Compte rendu du 06/03/2018
 --------------------------------------------------
-https://interstices.info/jcms/i_56766/modeliser-la-propagation-d-une-epidemie
+lien utile :https://interstices.info/jcms/i_56766/modeliser-la-propagation-d-une-epidemie
+
+Lors de cette séance nous avons introduit un enfant malade dans notre système qui était jusque la illustré de 0 (cases vides) et  de 1 (enfants sains).Nous avons donc introduit aléatoirement un 2 (enfant malade) en utilisant les positions de la matrice précédente.Nous avons donc pour objectif de modeliser la propagation de la varicelle en contaminant les voisins du 2 dans la matrice et en ne faisant rien si son voisin est un 0.
