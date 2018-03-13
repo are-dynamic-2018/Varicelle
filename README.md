@@ -52,3 +52,7 @@ Compte rendu du 06/03/2018
 lien utile :https://interstices.info/jcms/i_56766/modeliser-la-propagation-d-une-epidemie
 
 Lors de cette séance nous avons introduit un enfant malade dans notre système qui était jusque la illustré de 0 (cases vides) et  de 1 (enfants sains).Nous avons donc introduit aléatoirement un 2 (enfant malade) en utilisant les positions de la matrice précédente.Nous avons donc pour objectif de modeliser la propagation de la varicelle en contaminant les voisins du 2 dans la matrice et en ne faisant rien si son voisin est un 0.
+
+Compte rendu du 13/03/2018
+-----------------------------------------------------
+Lors de cette séance nous nous sommes porté sur la contamination des individus dans notre matrice par rapport à un seul individu malade, mais nous n'avons pas terminé cette partie, nous continuerons donc ça pour la séance prochaine.Nous avons aussi travaillé sur la partie graphique de notre projet durant cette séance et avons produit une petite animation capable d'afficher une matrice sous forme de carrés de couleur,chaque carrés correspondant à une case de notre matrice et la couleur à un état de l'individu(malade,sains,etc...), cette animation comporte également un titre et une légende.
