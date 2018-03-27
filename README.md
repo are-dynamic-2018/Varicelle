@@ -60,3 +60,7 @@ Lors de cette séance nous nous sommes porté sur la contamination des individus
 Compte rendu du 20/03/2018
 --------------------------------------------
 Lors de cette séance nous avons essayé à partir d'un seul individu d'infecter ses voisins mais les résultats n'ont pas été très concluant nous allons donc continuer d'y travailler pour la semaine prochaine. Nous avons aussi continué de travailler sour la partie graphique et avons réussi à définir le choix des couleurs pour nos élèves de maternelle.
+
+Compte rendu du 27/03/2018
+---------------------------------
+Lors de cette séance nous avons continuer à programmer l'animation et continuer à essayer de contaminer les autres enfants. Nous avons désormais une animation animée où les enfants se déplace et où les individus infecter infecte les individus sains, néamoins notre fonction de contamination n'est toujours pas complètement opérationnel.Nous avons donc pour objectif de paufiner cette fonction nous allons aussi commencer à réfléchir au rapport et à la présentation final.
