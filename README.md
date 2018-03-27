@@ -56,3 +56,7 @@ Lors de cette séance nous avons introduit un enfant malade dans notre système 
 Compte rendu du 13/03/2018
 -----------------------------------------------------
 Lors de cette séance nous nous sommes porté sur la contamination des individus dans notre matrice par rapport à un seul individu malade, mais nous n'avons pas terminé cette partie, nous continuerons donc ça pour la séance prochaine.Nous avons aussi travaillé sur la partie graphique de notre projet durant cette séance et avons produit une petite animation capable d'afficher une matrice sous forme de carrés de couleur,chaque carrés correspondant à une case de notre matrice et la couleur à un état de l'individu(malade,sains,etc...), cette animation comporte également un titre et une légende.
+
+Compte rendu du 20/03/2018
+--------------------------------------------
+Lors de cette séance nous avons essayé à partir d'un seul individu d'infecter ses voisins mais les résultats n'ont pas été très concluant nous allons donc continuer d'y travailler pour la semaine prochaine. Nous avons aussi continué de travailler sour la partie graphique et avons réussi à définir le choix des couleurs pour nos élèves de maternelle.
